@@ -24,6 +24,7 @@ SRCROOT=.
 
 ##define the compliers
 CPP = $(CXX)
+CC = gcc
 AR = ar -rc
 RANLIB = ranlib
 
